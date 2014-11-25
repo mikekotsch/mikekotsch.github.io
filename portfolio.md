@@ -84,14 +84,14 @@ More details on [Facebook](https://www.facebook.com/mcd)
 # McDonald’s Antilittering
 Changing the voice of McDonald’s online forever
 
-[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdfacebook.jpg)](https://www.facebook.com/video.php?v=10150618288587837)
+[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdantilittering.jpg)](https://www.facebook.com/video.php?v=10150618288587837)
 
 ### Achievements
 + 28.000 uploads, 1 million page impressions and 5.700 filled trash bins
 + The client thanked us for the best corporate responsibility campaign ever launched in Germany.
 {:.achievements}
 
-![Audi Augmented Reality Calendar](http://www.fabianroser.de/wp-content/uploads/2011/01/101210_AR_2011_sm.jpg)
+![McDonald’s Kick the trash interface](http://files2.coloribus.com/files/adsarchive/part_1383/13832255/file/mcdonalds-kick-the-trash-small-44674.jpg)
 {:.fifty}
 
 **The problem** McDonald's is littering its environment, especially in the radius of 200 meters around the restaurants. In Germany they started to use paper only at least, but we have all seen it, right?**Our solution** To address teens with a topic that is sometimes slightly boring if not totally uninteresting, we made an interactive movie where you could take the lead – as a freestyle soccer player.
@@ -161,5 +161,62 @@ The first car calendar without cars
 
 More details on [Behance](https://www.behance.net/gallery/3447711/Audi-Augmented-Reality-Calendar-2011) & [Ads of the world](http://adsoftheworld.com/media/dm/audi_augmented_reality_calendar)
 
-[&#65516;](#audicalendar)
+[&#65516;](#razorbeer)
 {:.next}
+
+
+---
+{: #razorbeer}
+
+# Razorbeer
+A location based invitation tool on Twitter
+
+![Razorbeer, yummy.](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/calendar.jpg)
+
+### Achievements
++ 39 Tweets to possible future employees.
++ 1 new freelance Art Director.
++ A six-pack cold Beck’s beer – delivered to the Head of Social Media in New York.
+{:.achievements}
+
+![A six-pack Beck’s delivery](http://static.ow.ly/photos/normal/118q0.jpg)
+{:.fifty}
+
+**The problem** Advertising offices in most cases aren't locally rooted. They have beautiful office spaces, magnificent views and lots of nice people – one never gets to see.**Our solution** A Twitter App that is responding to tweets sent nearby the office inviting the Tweeter for a cold beer – or as we call it "Razorbeer".
+
+**Execution** With my best friend Falko, I set up a Twitter robot that would respond automatically to tweets nearby. It's that easy. The result: a new design freelancer, a rich presentation of an illustrator who is travelling the world and a six-pack of german beer delivered to New Yorks Razorfish office.
+{:.clear}
+
+**My role** As the Happiness Officer of Razorfish I was the driving force of this. This is my baby, I still believe in it. I mean, who can say no to a cold one?
+
+More details on [Twitter](https://twitter.com/razorbeer)
+
+[&#65516;](#instagramory)
+{:.next}---
+{: #instagramory}
+
+# Instagramory
+A concentration game with you favourite Instagram images
+
+![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/calendar.jpg)
+
+### Achievements
++ Played 25.000++ times.
++ Used by Audi and McDonald’s for promotion.
++ Became best buddies with one of the most talented front-end devs I know.
+{:.achievements}
+
+![Instagramory on McDonald’s Facebook page](https://scontent-b-lhr.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/317287_293889690634258_352849925_n.jpg?oh=4a7fa0261812491b945a3518c6766e8c&oe=550AC20B)
+{:.fifty}
+
+**The problem** Instagram pictures have a lot of wrong tags. Search for "Apple" and you'll get a lot of spam, I promise.**Our solution** We wanted to invent a game that is fun and helps to rate tags given to a set of pictures. A game that uses squared images? Concentration (or Memory as we call it in Germany)!
+
+**Execution** Falko and I developed a game that could be played with tags that you enter. The game was played more than 25.000 times – mostly because I managed to get it on the McDonald's and the Audi Facebook pages.
+{:.clear}
+
+**My role** I was doing the concept and the further improvements such as printing the game (for giving it as a present) and sharing possibilities.
+
+Play Instagramory it [here](http://instagramory.com/).
+
+[&#65516;](#)
+{:.next}
