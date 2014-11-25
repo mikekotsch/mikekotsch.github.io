@@ -15,9 +15,7 @@ For months now I’m stoked by the opportunities that [Sketch][sketch] offers to
 
 + [InVision X Sketch][invision] *(Another great prototyping tool using Sketch assets – thanks [@mezelve][pieter])*
 
-There are [a lot more][more-plugins] of course, but these ones I’ve been using.
-
-You are developing something as well or simply know some plugin I have missed so far? [Let me know!][twitter]
+There are [a lot more][more-plugins] of course, but these ones I’ve been using. You are developing something as well or simply know some plugin I have missed so far? [Let me know!][twitter]
 
 [sketch]: http://bohemiancoding.com/sketch/
 

@@ -191,6 +191,8 @@
 .post-meta {
     //font-size: $small-font-size;
     color: $grey-color;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
 }
 
 .post-link {
