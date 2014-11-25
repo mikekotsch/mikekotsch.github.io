@@ -14,6 +14,10 @@ permalink: /portfolio/
 
 [Audi Augmented Reality Calendar](#audicalendar)
 
+[Razorbeer](#razorbeer)
+
+[Instagramory](#instagramory)
+
 ---
 {: #myburger}
 
@@ -171,7 +175,7 @@ More details on [Behance](https://www.behance.net/gallery/3447711/Audi-Augmented
 # Razorbeer
 A location based invitation tool on Twitter
 
-![Razorbeer, yummy.](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/calendar.jpg)
+![Razorbeer, yummy.](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/razorbeer.jpg)
 
 ### Achievements
 + 39 Tweets to possible future employees.
@@ -198,7 +202,7 @@ More details on [Twitter](https://twitter.com/razorbeer)
 # Instagramory
 A concentration game with you favourite Instagram images
 
-![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/calendar.jpg)
+![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/instagramory.jpg)
 
 ### Achievements
 + Played 25.000++ times.
@@ -216,7 +220,30 @@ A concentration game with you favourite Instagram images
 
 **My role** I was doing the concept and the further improvements such as printing the game (for giving it as a present) and sharing possibilities.
 
-Play Instagramory it [here](http://instagramory.com/).
+Play [Instagramory](http://instagramory.com/)
 
-[&#65516;](#)
-{:.next}
+[&#65516;](#smokefree)
+{:.next}---
+{: #smokefree}
+
+# Smokefree.me
+Nike+ for cigarettes
+
+[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/instagramory.jpg)](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/)
+
+### Achievements
++ Survived 24 hours of development & coding.
++ Holding a talk in front of 500+ people.
+{:.achievements}
+
+![Smokefree.me screens](https://c2.staticflickr.com/6/5544/10495898263_5e88620aec_h.jpg)
+{:.fifty}
+
+**The problem** Did you know, that Tobacco kills up to half of its users? Did you know, that the average additional costs for a smoker are about $5.000 per year? Did you know that by 2014 health care is funding smokers when they decide to undergo a treatment?**Our solution** Imagine if there were a playful, elegant approach to stop smoking. Forever. Well, you don't have to imagine it, we've created it.
+
+**Execution** Via the pressure sensor in the next generation E-Cigarette, we can measure when, how often and how deep you are taking a puff. The data is transferred and stored online – always there for you to see, analyse and share. Your health care professional can monitor your achievements and set new goals together with you.
+{:.clear}
+
+**My role** Ideation. Concepting. Arduino & Processing code writing and a talk in front of 500+ people at the TechCrunch Disrupt Europe Hackathon in Berlin.
+
+More info on [TechCrunch](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/) and [GitHub](https://github.com/mikekotsch/sf)
