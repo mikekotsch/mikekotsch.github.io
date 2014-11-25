@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![Mike Kotsch](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mike.jpg)
+
 I am Berlin-based Interaction Designer with over 7 years experience within digital. Since my study in Informatics I constantly conceived strategies & ideas for agencies such as Razorfish, Heimat and LHBS Consulting as well as innovations in product development for clients like McDonald’s, Audi, Lufthansa, Volkswagen & Telekom. I love working hands-on in cross-disciplinary teams as well as directing people to achieve the best possible solution to ever changing challenges. My experience ranges from strategic research, leading conception and rapid prototyping, to interaction design, including presenting creative to clients and stakeholders.
 
 # Work
