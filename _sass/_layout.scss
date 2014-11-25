@@ -6,11 +6,11 @@
     //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
-    // Positioning context for the mobile navigation icon
-    position: relative;
-
     opacity: 0.4;
     filter: alpha(opacity=40);
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
 }
 
 .site-title {

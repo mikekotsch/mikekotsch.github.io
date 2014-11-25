@@ -4,7 +4,7 @@ title:  Sketch plugins
 date:   2014-11-25 11:36:51
 categories: sketch resources plugin
 ---
-For months now I’m stoked by the opportunities that [Sketch][sketch] offers to people like me. With that, I mean people that want to translate ideas into tangible outcomes rather quickly, which never worked out for me using Photoshop or other tools. Since Sketch is so open, fantastic plugins pop up on a regular basis. Here are the best add ons that crossed my way so far:
+For months now I’m stoked about the opportunities that [Sketch][sketch] offers to people like me. With that, I mean people that want to translate ideas into tangible outcomes rather quickly, which never worked out for me using Photoshop or other tools. Since Sketch is so open, fantastic plugins pop up on a regular basis. Here are the best add ons that crossed my way so far:
 
 + [Sketch Notebook][sketch-notebook] *(Turn your Sketch dartboards into describable wireframes with ease)*
 + [Sketch Commands][sketch-commands] *(Handles everything around exporting of your Sketch files perfectly)*

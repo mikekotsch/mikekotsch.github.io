@@ -37,9 +37,30 @@ ul, ol, dl, figure,
 
 h1 {
   font-family: $headline-font;
+  margin: 45px 0 0 0;
 }
 
+h3 {
+    margin-top: 30px;
+    margin-bottom: 3px;
+}
 
+h3 em {
+  font-size: .7em;
+  color: $brand-color;
+  white-space: nowrap;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+
+hr {
+  margin: 5em 0;
+  border-color: $grey-color-light;
+  height: 1px;
+  border-width: 0;
+  color: $grey-color-light;
+  background-color: $grey-color-light;
+}
 
 /**
  * Images
@@ -49,6 +70,25 @@ img {
     vertical-align: middle;
 }
 
+.fifty {
+    max-width: 45%;
+    padding-right: 15px;
+    float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.next {
+  text-align: center;
+  font-size: 5em;
+}
+
+.next a {
+  color: $grey-color-light !important;
+  text-decoration: none !important;
+}
 
 
 /**
