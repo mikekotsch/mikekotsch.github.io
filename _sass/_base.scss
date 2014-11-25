@@ -90,6 +90,10 @@ img {
   text-decoration: none !important;
 }
 
+.achievements {
+  margin: 10px 0 35px 15px;
+}
+
 
 /**
  * Figures
@@ -109,6 +113,7 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
+    font-weight: bold;
 }
 
 li {
