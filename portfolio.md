@@ -4,21 +4,23 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-[My Burger by McDonald's](#my-burger)
+[My Burger by McDonald's](#myburger)
 
 [McDonald's Facebook Page](#mcdfacebook)
+
+[McDonald's Antilittering](#mcdantilittering)
 
 [Audi Sudden Motion Banner](#audisms)
 
 [Audi Augmented Reality Calendar](#audicalendar)
 
 ---
-{: #my-burger}
+{: #myburger}
 
 # “My Burger” by McDonald’s
 The worlds first crowdsourced McDonald’s Burgers
 
-[![My burger image from Heye](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdonalds.png)](http://player.vimeo.com/video/55641945?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
+[![My burger image from Heye](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdonalds.jpg)](http://player.vimeo.com/video/55641945?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
 
 
 ### Achievements
@@ -51,7 +53,7 @@ More details on [Razorfish](http://en.razorfish.de/#/Projectdetails/McDonalds.-M
 # McDonald’s Facebook Page
 Changing the voice of McDonald’s online forever
 
-[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/audi.png)](http://player.vimeo.com/video/28310515?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
+[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdfacebook.jpg)](https://www.facebook.com/video.php?v=10150618288587837)
 
 ### Achievements
 + Setting up and developing Germany’s biggest Facebook page.
@@ -59,7 +61,7 @@ Changing the voice of McDonald’s online forever
 + Opening up McDonald’s to a whole new way of communication – dealing with critics changed forever.
 {:.achievements}
 
-![Audi Augmented Reality Calendar](http://www.fabianroser.de/wp-content/uploads/2011/01/101210_AR_2011_sm.jpg)
+![McDonald’s Post on Facebook](https://fbcdn-sphotos-h-a.akamaihd.net/hphotos-ak-xfa1/v/t1.0-9/375554_10150560942667588_1877397802_n.jpg?oh=0fbf716606b023a0307327a0fee7cde4&oe=551F8899&__gda__=1427175062_a0df58c132b8035da81c43e93cce6842)
 {:.fifty}
 
 **The problem** McDonald's is a controversial brand – either you love or you hate it. There is little in between, but convincing a brand to join Social Media under these circumstances can be quite challenging.**Our solution** After months of preparation and strategic imperatives we finally made it – McDonald's Germany got its presence on Facebook and Twitter. This "solution" was as we know just the beginning of a journey that took its time and culminated in Germany's No.1 Facebook Brand page with over 2.4 million fans.
@@ -71,6 +73,37 @@ Changing the voice of McDonald’s online forever
 
 More details on [Facebook](https://www.facebook.com/mcd)
 
+
+[&#65516;](#mcdantilittering)
+{:.next}
+
+---
+{: #mcdantilittering}
+
+
+# McDonald’s Antilittering
+Changing the voice of McDonald’s online forever
+
+[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/mcdfacebook.jpg)](https://www.facebook.com/video.php?v=10150618288587837)
+
+### Achievements
++ 28.000 uploads, 1 million page impressions and 5.700 filled trash bins
++ The client thanked us for the best corporate responsibility campaign ever launched in Germany.
+{:.achievements}
+
+![Audi Augmented Reality Calendar](http://www.fabianroser.de/wp-content/uploads/2011/01/101210_AR_2011_sm.jpg)
+{:.fifty}
+
+**The problem** McDonald's is littering its environment, especially in the radius of 200 meters around the restaurants. In Germany they started to use paper only at least, but we have all seen it, right?**Our solution** To address teens with a topic that is sometimes slightly boring if not totally uninteresting, we made an interactive movie where you could take the lead – as a freestyle soccer player.
+
+**Execution** We brought one of the best flash developers from Sweden to Germany for one reason only: 3D projection mapping. The video showed two freestyle soccer players – one male and one female – that played together with a piece of trash and kicked it into the bin at the end. Via Facebook and other channels you could not only upload a picture of yourself, but also invite somebody to play with you.
+{:.clear}
+
+**My role** As a part of the creative triumvirate I was thinking up the idea as well as writing the script and concepting the page down to its wireframes. Editors note: the wireframes were later improved even further by the back then wireframe overlord Franziska.
+
+More details on [Razorfish](http://www.projectgallery.de/mcd_kickthetrash/forrester.html)
+
+
 [&#65516;](#audisms)
 {:.next}
 
@@ -81,7 +114,7 @@ More details on [Facebook](https://www.facebook.com/mcd)
 # Audi Sudden Motion Sensor Banner
 The first banner in the world with motion control
 
-[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/audi.png)](http://player.vimeo.com/video/39860268?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
+[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/audi.jpg)](http://player.vimeo.com/video/39860268?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
 
 ### Achievements
 + The first banner in the world with motion control. 
@@ -109,7 +142,7 @@ More details on [Behance](https://www.behance.net/gallery/3448929/Audi-quattro-S
 # Audi Augmented Reality Calendar
 The first car calendar without cars
 
-[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/audi.png)](http://player.vimeo.com/video/28310515?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
+[![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/calendar.jpg)](http://player.vimeo.com/video/28310515?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
 
 ### Achievements
 + 23.448 downloads in three month.
