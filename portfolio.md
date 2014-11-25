@@ -18,6 +18,10 @@ permalink: /portfolio/
 
 [Instagramory](#instagramory)
 
+[Smokefree.me](#smokefree)
+
+[Playground](#playground)
+
 ---
 {: #myburger}
 
@@ -229,7 +233,7 @@ Play [Instagramory](http://instagramory.com/)
 # Smokefree.me
 Nike+ for cigarettes
 
-[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/instagramory.jpg)](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/)
+[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/smokefree.jpg)](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/)
 
 ### Achievements
 + Survived 24 hours of development & coding.
@@ -246,4 +250,19 @@ Nike+ for cigarettes
 
 **My role** Ideation. Concepting. Arduino & Processing code writing and a talk in front of 500+ people at the TechCrunch Disrupt Europe Hackathon in Berlin.
 
-More info on [TechCrunch](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/) and [GitHub](https://github.com/mikekotsch/sf)
+More details on [TechCrunch](http://techcrunch.com/video/smokefree-me-demo-at-hackathon-europe-2013/517988749/) and [GitHub](https://github.com/mikekotsch/sf)[&#65516;](#playground)
+{:.next}---
+{: #playground}
+
+# Playground
+A place for testing concepts
+
+![Playground](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/playground.jpg)
+
+**The problem** Having a basic understanding of programming and the ways things work, I come across things that are not yet perfectly implemented. I was looking for the perfect partner to help me develop my ideas further, but I learned that this partner has to be myself in many cases.**Our solution** I started doing little tech demos of insight based concepts I have in mind. This space is more about early prototypes of possible features or simply a space where I can fulfil my needs such as finding concerts nearby.
+
+**Execution** Occasionally I'm posting new demos of what I think might be nice on this page – be it an altimeter, a Bitcoin miner, a demo of distance in the digital space or simply a tool for finding similar new artists for your present favourite band.
+
+**My role** Ideation. Concepting. Prototyping. Imbibing a cold one over it.
+
+More details on [Playground](http://playground.mikekotsch.de/)
