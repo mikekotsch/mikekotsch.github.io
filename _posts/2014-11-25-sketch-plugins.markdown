@@ -10,6 +10,8 @@ For months now I’m stoked by the opportunities that [Sketch][sketch] offers to
 + [Sketch Commands][sketch-commands] *(Handles everything around exporting of your Sketch files perfectly)*
 + [Zeplin.io][zeplin] *(Working with front-end developers? They will love this thing)*
 + [Framer.js][framer] *(Not really a plugin, but one hell of a prototyping tool for Sketch)*
+
+**UPDATE**
 + [InVision X Sketch][invision] *(Another great prototyping tool using Sketch assets – thanks [@mezelve][pieter])*
 
 There are [a lot more][more-plugins] of course, but these ones I’ve been using.
