@@ -92,6 +92,7 @@ img {
 
 .achievements {
   margin: 10px 0 35px 15px;
+  font-weight: bold;
 }
 
 .thumb {
@@ -120,7 +121,6 @@ figcaption {
  */
 ul, ol {
     margin-left: $spacing-unit;
-    font-weight: bold;
 }
 
 li {
