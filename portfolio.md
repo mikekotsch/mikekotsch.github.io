@@ -4,26 +4,36 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-[My Burger by McDonald's](#myburger)
+{:.thumb}
+[![My Burger by McDonald's](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)My Burger](#myburger)
 
-[McDonald's Facebook Page](#mcdfacebook)
+{:.thumb}
+[![McDonald's Facebook Page](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)McDonald's Facebook Page](#mcdfacebook)
 
-[McDonald's Antilittering](#mcdantilittering)
+{:.thumb}
+[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)McDonald's Antilittering](#mcdantilittering)
 
-[Audi Sudden Motion Banner](#audisms)
+{:.thumb}
+[![Audi Sudden Motion Banner](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Audi Sudden Motion Banner](#audisms)
 
-[Audi Augmented Reality Calendar](#audicalendar)
+{:.thumb}
+[![Audi Augmented Reality Calendar](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Audi Augmented Reality Calendar](#audicalendar)
 
-![Razorbeer]()[Razorbeer](#razorbeer)
+{:.thumb}
+[![Razorbeer](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Razorbeer](#razorbeer)
 
-[Instagramory](#instagramory)
 
-[Smokefree.me](#smokefree)
 
-[Playground](#playground)
+{:.thumb}
+[![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png) Instagramory](#instagramory)
+
+{:.thumb}
+[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Smokefree.me](#smokefree)
+
+{:.clear}
 
 ---
-{: #myburger}
+{: #myburger .clear}
 
 # “My Burger” by McDonald’s
 The worlds first crowdsourced McDonald’s Burgers
