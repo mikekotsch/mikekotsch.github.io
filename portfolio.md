@@ -5,30 +5,28 @@ permalink: /portfolio/
 ---
 
 {:.thumb}
-[![My Burger by McDonald's](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)My Burger](#myburger)
+[![My Burger by McDonald's](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_myburger.jpg)My Burger](#myburger)
 
 {:.thumb}
-[![McDonald's Facebook Page](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)McDonald's Facebook Page](#mcdfacebook)
+[![McDonald's Facebook Page](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_facebook.jpg)McDonald's Facebook Page](#mcdfacebook)
 
 {:.thumb}
-[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)McDonald's Antilittering](#mcdantilittering)
+[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_antilittering.jpg)McDonald's Antilittering](#mcdantilittering)
 
 {:.thumb}
-[![Audi Sudden Motion Banner](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Audi Sudden Motion Banner](#audisms)
+[![Audi Sudden Motion Banner](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_audiquattro.jpg)Audi Sudden Motion Banner](#audisms)
 
 {:.thumb}
-[![Audi Augmented Reality Calendar](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Audi Augmented Reality Calendar](#audicalendar)
+[![Audi Augmented Reality Calendar](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_audicalendar.jpg)Audi Augmented Reality Calendar](#audicalendar)
 
 {:.thumb}
-[![Razorbeer](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Razorbeer](#razorbeer)
-
-
+[![Razorbeer](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.jpg)Razorbeer](#razorbeer)
 
 {:.thumb}
-[![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png) Instagramory](#instagramory)
+[![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_instagramory.jpg) Instagramory](#instagramory)
 
 {:.thumb}
-[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.png)Smokefree.me](#smokefree)
+[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_smokefree.jpg)Smokefree.me](#smokefree)
 
 {:.clear}
 
