@@ -7,9 +7,9 @@ categories: mfg weekly newsletter
 
 Last week, I visited my parents. Having only little time for myself, I enjoyed the stay and also visited my grandma for her 71st birthday. Here are other things that enlightened or simply amused me last week:
 
-**Projection mapping my ass** -- My friend [Pieter](pieter) pointed out a guy from Japan who did exactly that: map a projection on his ass. This rather silly idea is executed very well, therefore I mustn’t miss out on that one. [Watch the whole short here.](https://www.youtube.com/watch?v=tqoFx-TT858)
+**Projection mapping my ass** -- My friend [Pieter][pieter] pointed out a guy from Japan who did exactly that: map a projection on his ass. This rather silly idea is executed very well, therefore I mustn’t miss out on that one. [Watch the whole short here.](https://www.youtube.com/watch?v=tqoFx-TT858)
 
-**Officer: A Beacon Prototype** -- Again it was [Pieter](pieter) who pointed out this IOT demo from Jens Nikolaus and his creative team. The idea is as simple as that: time tracking via proximity to a beacon that discovers your bluetooth signature. Nice thing that came along with it was [Zeropush](http://zeropush.com), a nifty service that lets you hire a push notification server. [Watch the Officer prototype here.](http://youandthegang.com/2014/officer/)
+**Officer: A Beacon Prototype** -- Again it was [Pieter][pieter] who pointed out this IOT demo from Jens Nikolaus and his creative team. The idea is as simple as that: time tracking via proximity to a beacon that discovers your bluetooth signature. Nice thing that came along with it was [Zeropush](http://zeropush.com), a nifty service that lets you hire a push notification server. [Watch the Officer prototype here.](http://youandthegang.com/2014/officer/)
 
 **Postcards from Chernobyl** -- In 1986, a mistake caused the first major accident in  an atomic power plant in Chernobyl. 28 years later, the site still looks like a post apocalyptic scenery that looks like it inspired tons of Hollywood splatter movies. And while drone video footage isn’t that of a surprise anymore, the combination of just like that and the terrible effect the human kind had on that part of the world makes you think. [Watch these 10 minutes of depressing beauty, now.](https://vimeo.com/112681885)
 
