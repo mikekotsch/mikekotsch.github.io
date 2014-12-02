@@ -14,6 +14,7 @@ For months now I’m stoked about the opportunities that [Sketch][sketch] offers
 **UPDATE**
 
 + [InVision X Sketch][invision] *(Another great prototyping tool using Sketch assets – thanks [@mezelve][pieter])*
++ [Sketch App Resources][ui8] *Download some of the best resources already out there to learn (and imitate)*
 
 There are [a lot more][more-plugins] of course, but these ones I’ve been using. You are developing something as well or simply know some plugin I have missed so far? [Let me know!][twitter]
 
@@ -25,6 +26,7 @@ There are [a lot more][more-plugins] of course, but these ones I’ve been using
 [framer]: http://framerjs.com/
 [invision]: http://www.invisionapp.com/sketch-prototyping
 [pieter]: https://twitter.com/mezelve
+[ui8]: https://ui8.net/category/sketch
 [more-plugins]: https://gist.github.com/bomberstudios/7694497
 
 [twitter]:  https://twitter.com/mikekotsch
