@@ -1,0 +1,35 @@
+---
+layout: post
+title: UX Favs
+date:  2014-12-09 22:06:53
+---
+
+
+# Zeplin.io Beta Verification
+Last week I stumbled upon [Zeplin.io](https://zeplin.io/), a tool for developers to work seamlessly with designers using Sketch. That I’m a big fan of Sketch because of a -- in my opinion -- brilliant UX itself, Zeplin on the other hand was surprising me as well with this simple thing:
+
+[![Zeplin Signup Mail](https://s3.amazonaws.com/f.cl.ly/items/023i3D3t3u2S0f0Y2H1w/Screen%20Shot%202014-12-10%20at%2005.22.09.png)](https://twitter.com/mikekotsch/status/540106046224994304)
+
+A little link makes sure you can postpone the download of the app -- for example if you are not browsing on your own Mac. Simple, clever.
+
+---
+
+# Seamless Travel by _edenspiekermann
+Another pretty cool UX concept hit my Twitter feed last week, when [_edenspiekermann](http://www.edenspiekermann.com/) presented one app to combine all other travel apps. Have a look at the following video, it seems well thought through:
+
+<iframe src="//player.vimeo.com/video/96477538?title=0&amp;byline=0&amp;portrait=0&amp;color=a9be00" width="740" height="416" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+---
+
+# Embeddable Compass
+While working for Telekom, I thought it might be practical to not only show information on a map, but rather pointing out where it is relative to you. Long story short: an embeddable compass. And while I was very pleased, I thought maybe others might use it as well, so I made gave it some variables that you can easily manipulate and fit to your needs. All you have to do is integrate an iFrame with the following source:
+
+`http://playground.mikekotsch.de/compass/embed.php`
+
+Variables to customise that thing:
+
+`lat` = latitude of your destination   
+`lng` = longitude of your destination   
+`size` = size of the rectangle in which the arrow sits   
+`col` = takes hex values to change the color of the SVG arrow   
+`bgc` = changes the backgroundcolor, again only hex values   
