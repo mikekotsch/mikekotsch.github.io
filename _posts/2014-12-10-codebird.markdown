@@ -1,0 +1,13 @@
+---
+layout: post
+title: Codebird
+date:  2014-12-10 04:17:34
+---
+
+![Tweet and Meet aka Autoresponder](https://s3.amazonaws.com/f.cl.ly/items/2V2C25420o040g0J400C/Screen%20Shot%202014-12-10%20at%2004.28.12.png)
+
+Having quite some trouble with [tmhOAuth](https://github.com/themattharris/tmhOAuth) for Twitter and not being able to hog Falko as I used to, I tried [Codebird](https://github.com/jublonet/codebird-php) for the first time. And to be honest, it is a really simple way to use the basic possibilities of the Twitter API. I’m working on an automatic responder and some of my old PHP and MySQL skills have woken up again! Also some older experiments, like the [Eventfinder](http://playground.mikekotsch.de/eventfinder/) helped me to cover a lot of ground while programming my first product -- tweetandmeet -- almost entirely alone.
+
+Since it is just procedural coding with a lot of bad code notation, I’m not sharing it on GitHub so far, but I’ll invite everyone to take part in a private beta. The early phase is limited to the 25 Cronjobs that come with my webspace, but I’m happy to share it with you as soon as it is running “smooth & stable”.
+
+Want to be part of the laboratory? [Let me know on Twitter](https://twitter.com/mikekotsch).

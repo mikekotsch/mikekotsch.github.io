@@ -133,7 +133,7 @@ The first banner in the world with motion control
 [![Audi Sudden Motion Sensor](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/audi.jpg)](http://player.vimeo.com/video/39860268?title=0&amp;byline=0&amp;portrait=0&amp;color=FB962C&amp;autoplay=1)
 
 ### Achievements
-+ The first banner in the world with motion control. 
++ The first banner in the world with motion control.
 + Or in other words: »Vorsprung durch Technik« (Advance through Technology).
 {:.achievements}
 
@@ -168,7 +168,7 @@ The first car calendar without cars
 ![Audi Augmented Reality Calendar](http://www.fabianroser.de/wp-content/uploads/2011/01/101210_AR_2011_sm.jpg)
 {:.fifty}
 
-**The problem** Develop a calendar for premium Audi clients all over the world. The calendar should differ greatly from other car calendars and position Audi as innovative and modern.**Our solution** The first car calendar without cars! The calendar showed only beautiful landscapes. 
+**The problem** Develop a calendar for premium Audi clients all over the world. The calendar should differ greatly from other car calendars and position Audi as innovative and modern.**Our solution** The first car calendar without cars! The calendar showed only beautiful landscapes.
 
 **Execution** In order to experience the cars, the user had to download an iPhone application. Using augmented reality, one could then bring out the cars onto the landscapes. Simple as that.
 {:.clear}
