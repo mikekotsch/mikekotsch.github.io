@@ -4,31 +4,35 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-{:.thumb}
-[![My Burger by McDonald's](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_myburger.jpg)My Burger](#myburger)
 
-{:.thumb}
-[![McDonald's Facebook Page](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_facebook.jpg)McDonald's Facebook Page](#mcdfacebook)
+{: #telekom .clear}
 
-{:.thumb}
-[![McDonald's Antilittering](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_antilittering.jpg)McDonald's Antilittering](#mcdantilittering)
+# Telekom HotSpots
+Home is where your Wifi connects automatically
 
-{:.thumb}
-[![Audi Sudden Motion Banner](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_audiquattro.jpg)Audi Sudden Motion Banner](#audisms)
+![Unfortunately NDA'd](https://s3.amazonaws.com/f.cl.ly/items/0L0Z2C2E3L3K0U123M3y/nda.jpg)
 
-{:.thumb}
-[![Audi Augmented Reality Calendar](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_audicalendar.jpg)Audi Augmented Reality Calendar](#audicalendar)
 
-{:.thumb}
-[![Razorbeer](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_razorbeer.jpg)Razorbeer](#razorbeer)
+### Achievements
++ Reducing the number of necessary inputs from 13 to 3
++ 3 taps for a mobile purchase -- almost too easy
++ Axure prototype fully working with a mail server and real time compasses
+{:.achievements}
 
-{:.thumb}
-[![Instagramory](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_instagramory.jpg) Instagramory](#instagramory)
+![InTrain HotSpot](http://dreisechsnull.telekom.de/fileadmin/user_upload/Redaktion/Bildarchiv/Hotspot_Telekom_Deutsche_Bahn_768.jpg)
+{:.fifty}
 
-{:.thumb}
-[![Smokefree.me](https://raw.githubusercontent.com/mikekotsch/mikekotsch.github.io/master/_images/_icon_smokefree.jpg)Smokefree.me](#smokefree)
+**The problem** Telekom needed support for improving the HotSpot UX -- from buying passes to making the concept clear to everybody interested.**Our solution** Together with strong internal forces we improved the user experience significantly on all major touch points. 
 
-{:.clear}
+**Execution** After weeks of research and internal collection of data from stakeholders, I built a fully functioning prototype in Axure to give a feeling of what the new HotSpot product would feel like.{:.clear}
+
+**My role** Research, strategy, concept and prototyping.
+
+More details are available, once the project goes live.
+
+[&#65516;](#myburger)
+{:.next}
+
 
 ---
 {: #myburger .clear}

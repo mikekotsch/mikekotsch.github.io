@@ -15,6 +15,8 @@ Using this trick you are most likely to be redirected to a Github page, where yo
 
 The best part is, that most of the time people upload more than one weight, so you got to get creative more easily. Hope this helps.
 
+UPDATE: [This](https://github.com/developer-prosenjit/font-face/tree/master/%40fontface-other) is what I’m talking about.
+
 Some more Google hacks that you know and want to share? [Let me know!][twitter]
 
 [twitter]:  https://twitter.com/mikekotsch
