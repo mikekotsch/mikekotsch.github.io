@@ -14,8 +14,8 @@ Home is where your Wifi connects automatically
 
 
 ### Achievements
-+ Reducing the number of necessary inputs from 13 to 3
-+ 3 taps for a mobile purchase -- almost too easy
++ Reducing the number of necessary inputs for a purchase from 13 to 3
++ Reducing to 3 taps for a mobile purchase -- which made it almost too easy
 + Axure prototype fully working with a mail server and real time compasses
 {:.achievements}
 
