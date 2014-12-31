@@ -1,0 +1,18 @@
+---
+layout: post
+title: GPG Tools
+date:  2014-12-31 18:42:48
+---
+
+
+![GPG Tools make writing more secure](https://s3.amazonaws.com/f.cl.ly/items/2c1n0x2L17213X1G3p3C/c9e42240.jpg)
+
+Inspired by [Jakob Applebaum](https://twitter.com/ioerror) and the latest informations going public at the [31C3](http://streaming.media.ccc.de/relive/) in Hamburg, I reconfigured the Mail App under Yosemite to support GPG encryption again. You can find my [public key](http://kots.ch/key) online and make writing me more secure. 
+
+After writing a short bash script and some command line wizardry I was able to see, that just three of my 113 contacts use encryption as well. So let’s advocate friends and affiliates to make the web a bit more secure. 
+
+BTW: installed Chrome on all browsers of my family members this Christmas. At least something …
+
+So, have a good New Year’s Eve and a good start into 2015. See you next year. :) 
+
+You want to know more? [Let me know on Twitter](https://twitter.com/mikekotsch).
